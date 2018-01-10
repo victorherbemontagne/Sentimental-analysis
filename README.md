@@ -1,3 +1,4 @@
 # Sentimental-analysis
 
-A application of my library Gensim Sentimental for classifying Facebook comments with great results(cros_val_score ~ 0.90)
+An application of my library Gensim Sentimental for classifying Facebook comments 
+(cros_val_score ~ 0.90)
